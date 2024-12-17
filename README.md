@@ -7,8 +7,7 @@
 
   E-learning is a comprehensive platform for first-year engineering students to access study material, videos, notes, quizzes, and more, all in one place. With the goal of enhancing the learning experience, this platform aims to make education accessible and organized.
 
-  
- * Problem Identified:
+*Problem Identified:
   
   Inefficient resource management 📉
   
@@ -16,8 +15,8 @@
   
   Lack of information regarding academic content 📚
   
-  
- * Solution Proposed:
+
+*Solution Proposed:
   
   Organized Learning: Students can learn at their own pace, access materials quickly, and find resources efficiently.
   
